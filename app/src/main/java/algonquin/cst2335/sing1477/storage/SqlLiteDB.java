@@ -4,8 +4,7 @@ import android.provider.BaseColumns;
 
 public final class SqlLiteDB {
 
-    // To prevent someone from accidentally instantiating the contract class,
-    // make the constructor private.
+
     private SqlLiteDB() {
     }
 

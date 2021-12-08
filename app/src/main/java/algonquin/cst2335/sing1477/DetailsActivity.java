@@ -28,6 +28,7 @@ import java.util.List;
 import algonquin.cst2335.sing1477.storage.SqlLiteDB;
 import algonquin.cst2335.sing1477.storage.StorageDb;
 
+
 public class DetailsActivity extends AppCompatActivity {
 
     private DbDataAdapter adapter;
